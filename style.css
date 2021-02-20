@@ -1,0 +1,56 @@
+html {
+    font-size: 100%;
+    
+    
+}
+
+body {
+    font-family: "Helvetica", sans-serif;
+}
+
+.header {
+
+}
+
+.balloons {
+    position: fixed;
+    width: 600px;
+    height: 600px;
+    left: 600px;
+    top: 10px;
+}
+
+.header-logo {
+    position: fixed;
+    width: 250px;
+    height: 250px;
+    top: -70px;
+}
+
+.header-title {
+    position: fixed;
+    color: rgb(24,169,253);
+    margin: 100px;
+    top: -120px;
+    font-size: 150px;
+
+}
+
+.main {
+    position: fixed;
+    color: black;
+    margin: 100px;
+    top: 200px;
+}
+
+.main-body {
+    color: rgb(87,107,116);
+    font-size: 20px;
+}
+
+.main-sub {
+    color: rgb(69,90,100)
+}
+
+
+
